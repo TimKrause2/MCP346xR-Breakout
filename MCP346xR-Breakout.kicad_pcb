@@ -2551,6 +2551,17 @@
 			(uuid "372c5d79-b154-403b-b39c-0e9ae9fc1dc6")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/libs/ul_MCP3464RT-E-NC/UQFN20_NC_MCH.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0603_1608Metric"
 		(layer "F.Cu")
@@ -3343,6 +3354,19 @@
 		(layer "F.Cu")
 		(uuid "d0a58cc7-5a48-40a5-b4c5-fe1a1da22214")
 		(at 128.2245 103.44 180)
+		(property "Reference" "U2"
+			(at 0 -0.5 180)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "5d206af4-b189-4179-a969-e9a46fb608c1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.1)
+				)
+			)
+		)
 		(property "Value" "CDC6C"
 			(at 0 1 180)
 			(unlocked yes)
@@ -3379,19 +3403,6 @@
 				(font
 					(size 1 1)
 					(thickness 0.15)
-				)
-			)
-		)
-		(property "Reference" "U2"
-			(at 0 -0.5 180)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "5d206af4-b189-4179-a969-e9a46fb608c1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.1)
 				)
 			)
 		)
@@ -3509,6 +3520,17 @@
 			(uuid "337b3b2a-d429-4721-8a86-c3f4ddc58827")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/libs/ul_CDC6CE019200ADLXR/DLX0004A.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical"
 		(layer "F.Cu")

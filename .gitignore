@@ -1,0 +1,14 @@
+# KiCad local settings, caches, and backups
+*.kicad_prl
+fp-info-cache
+~*.lck
+*-backups/
+*.bak
+*.zip
+_autosave-*
+.history/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+

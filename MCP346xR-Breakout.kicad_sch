@@ -2193,8 +2193,19 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "Resistor 5%"
 			(at 184.15 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "Any material 5%"
+			(at 184.15 67.31 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2275,7 +2286,18 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Unpolarized capacitor 5%"
+			(at 177.8 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "Ceramic 10V+"
 			(at 177.8 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -2354,8 +2376,19 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "Resistor 5%"
 			(at 184.15 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "Any material 5%"
+			(at 184.15 69.85 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2436,7 +2469,18 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Unpolarized capacitor 5%"
+			(at 186.69 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "Ceramic 10V+"
 			(at 186.69 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -2515,8 +2559,19 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "Resistor 5%"
 			(at 184.15 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "Any material 5%"
+			(at 184.15 62.23 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2597,7 +2652,18 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Unpolarized capacitor 5%"
+			(at 210.82 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "Ceramic 10V+"
 			(at 210.82 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -2688,6 +2754,17 @@
 				)
 			)
 		)
+		(property "MPN" "CDC6CE019200ADLXR"
+			(at 142.24 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "4bfdf61f-08a9-4af1-b081-177dec80ebd2")
 		)
@@ -2731,7 +2808,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x10_Socket"
+		(property "Value" "Conn_01x10_Header"
 			(at 217.805 44.45 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2764,6 +2841,17 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x10, script generated"
+			(at 218.44 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "PinHeader_1x10_P2.54mm_Vertical"
 			(at 218.44 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -2870,6 +2958,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 107.95 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "MCP3464RT-E/NC"
 			(at 107.95 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -3008,7 +3107,18 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Unpolarized capacitor 5%"
+			(at 201.93 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "Ceramic 10V+"
 			(at 201.93 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -3056,7 +3166,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x10_Socket"
+		(property "Value" "Conn_01x10_Header"
 			(at 85.725 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3089,6 +3199,17 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x10, script generated"
+			(at 85.09 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "PinHeader_1x10_P2.54mm_Vertical"
 			(at 85.09 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -3191,8 +3312,19 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "Resistor 5%"
 			(at 184.15 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "Any material 5%"
+			(at 184.15 57.15 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3270,8 +3402,19 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "Resistor 5%"
 			(at 184.15 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "Any material 5%"
+			(at 184.15 59.69 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3349,8 +3492,19 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "Resistor 5%"
 			(at 184.15 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "Any material 5%"
+			(at 184.15 64.77 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
